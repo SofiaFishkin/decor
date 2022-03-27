@@ -1,0 +1,1 @@
+2022-03-27 03:03:18.989478, flat_generator, ([['a', 'b', 'c'], ['d', 'e', 'f'], ['g', 'h', 'i']],), <generator object flat_generator at 0x103248190>, /Users/rachelfishkin/Desktop/Studying/pro
